@@ -1,0 +1,1 @@
+Componentes que podem estar nas paginas

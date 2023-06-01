@@ -1,0 +1,1 @@
+As diretivas são classes que adicionam comportamento adicional aos elementos em seus aplicativos Angular. Use as diretivas integradas do Angular para gerenciar formulários, listas, estilos e o que os usuários veem.

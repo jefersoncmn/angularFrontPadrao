@@ -1,0 +1,1 @@
+Componente que estará presente em praticamente todas das paginas

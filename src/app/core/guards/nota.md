@@ -1,0 +1,1 @@
+Guards verificam se o usuário pode ter acesso a tal pagina
