@@ -7,4 +7,8 @@ export class Vaca extends BaseResourceModel{ //Irá obter as mesmas variáveis e
     ){
         super();//Chama o construtor do BaseResouceModel
     }
+
+    static fromJson(jsonData: any): Vaca {
+        return Object.assign(new Vaca(), jsonData);
+    }
 }
