@@ -8,6 +8,6 @@ import { Vaca } from './vaca.model';
 export class VacaService extends BaseResourceService<Vaca> {
 
   constructor(injector: Injector) { //Study Injector 
-    super("api/categories", injector, Vaca.fromJson)
+    super("http://localhost:8081/api/produtos/", injector, Vaca.fromJson)
   }
 }
